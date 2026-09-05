@@ -27,7 +27,7 @@ Here's a simple Python example
 # This is a comment
 name = "MUDE Student"
 age = 20
-print(f"Hello, my name is {name} and I am {age} years old :).")
+print(f"Hello, my name is {name} and I am {age} years old.")
 ```
 
 **Useful resources**
